@@ -14,9 +14,14 @@ You will need the following things properly installed on your computer.
 
 ## Installation
 
-* `git clone <repository-url>` this repository
+* `git clone t@github.com:EdsonSrv/drink-my-beer.git` this repository
 * `cd drink-my-beer`
 * `npm install`
+
+## Install bootstrap 4
+
+* `ember install ember-bootstrap`
+* `ember generate ember-bootstrap —bootstrap-version=4`
 
 ## Running / Development
 
