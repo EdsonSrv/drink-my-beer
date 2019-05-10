@@ -7,6 +7,9 @@ const Router = EmberRouter.extend({
 });
 
 Router.map(function() {
+  this.route('mi-album');
+  this.route('agregar-cerveza');
+  this.route('detalle-cerveza');
 });
 
 export default Router;
